@@ -1,9 +1,14 @@
 import React from "react";
+import Trollface from "../images/Trollface.png";
+import "../styles/style.css";
 
-export default function Header() {
+function Header() {
   return (
     <div>
-      <h1>HEADER</h1>
+      <header>
+        <img src={Trollface} alt="Trollface" />
+      </header>
     </div>
   );
 }
+export default Header;
