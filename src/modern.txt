@@ -1,0 +1,5 @@
+furtther modification
+use of arrow functions to create methods or function, with this we dont have
+to bing the nethod in the contructor
+. we can use the state method without using the constructor method
+2. Read more on react-router, react-hooks, react redux
